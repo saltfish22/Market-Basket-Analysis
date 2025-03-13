@@ -18,9 +18,9 @@ to identify frequent item sets and generate product recommendations based on pur
 4. **Sorting & Ranking:** Ranked rules by confidence scores to provide the best recommendations.
 
 ## 📂 Repository Structure
-- `market_basket_analysis.ipynb` – Jupyter Notebook implementation
-- `data/` – (Include a small sample dataset if possible)
-- `README.md` – Project description
+- `market_basket_analysis.ipynb` 
+- `data/` 
+- `README.md` 
 
 ## 📈 Results
 - Extracted **high-confidence** product recommendations using **association rule mining**.

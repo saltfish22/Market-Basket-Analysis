@@ -6,7 +6,7 @@ to identify frequent item sets and generate product recommendations based on pur
 
 ## 🔧 Technologies Used
 - **Python**
-- **Apriori Algorithm (Implemented from Scratch)**
+- **Apriori Algorithm**
 - **Data Wrangling (Pandas, NumPy)**
 - **Association Rule Mining**
 - **Confidence, Lift, and Conviction Metrics**
